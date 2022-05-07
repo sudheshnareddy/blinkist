@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1651921551181" clover="3.2.0">
+  <project timestamp="1651921551181" name="All files">
+    <metrics statements="202" coveredstatements="189" conditionals="20" coveredconditionals="14" methods="69" coveredmethods="57" elements="291" coveredelements="260" complexity="0" loc="202" ncloc="202" packages="24" files="36" classes="36"/>
+    <package name="Atoms">
+      <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="ProgressBar.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/ProgressBar.tsx">
+        <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="Atoms.Avatar">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="MyAvatar.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/Avatar/MyAvatar.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="21" count="15" type="stmt"/>
+        <line num="23" count="15" type="stmt"/>
+      </file>
+    </package>
+    <package name="Atoms.Blinklistlogo">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Blinklistlogo.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/Blinklistlogo/Blinklistlogo.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="26" count="19" type="stmt"/>
+        <line num="28" count="19" type="stmt"/>
+      </file>
+    </package>
+    <package name="Atoms.DownArrow">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="DownArrow.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/DownArrow/DownArrow.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Atoms.MylibraryTitle">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="MyLibraryTitle.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/MylibraryTitle/MyLibraryTitle.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Atoms.PlusIcon">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="PlusIcon.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/PlusIcon/PlusIcon.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="28" count="89" type="stmt"/>
+        <line num="29" count="89" type="stmt"/>
+      </file>
+    </package>
+    <package name="Atoms.Searchicon">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="MySearchicon.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/Searchicon/MySearchicon.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="27" count="14" type="stmt"/>
+        <line num="28" count="14" type="stmt"/>
+      </file>
+    </package>
+    <package name="Atoms.Tabs">
+      <metrics statements="8" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="1"/>
+      <file name="MyTabs.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/Tabs/MyTabs.tsx">
+        <metrics statements="8" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="49" count="3" type="stmt"/>
+        <line num="52" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="Atoms.TimeIcon">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="TimeIcon.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/TimeIcon/TimeIcon.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="Atoms.UserIcon">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="UserIcon.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/UserIcon/UserIcon.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="11" count="155" type="stmt"/>
+      </file>
+    </package>
+    <package name="Molecules.BookCard">
+      <metrics statements="33" coveredstatements="31" conditionals="4" coveredconditionals="2" methods="12" coveredmethods="9"/>
+      <file name="BookCard.stories.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Molecules/BookCard/BookCard.stories.tsx">
+        <metrics statements="10" coveredstatements="8" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="1"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="88" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+      </file>
+      <file name="BookCard.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Molecules/BookCard/BookCard.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="140" count="1" type="stmt"/>
+        <line num="142" count="88" type="stmt"/>
+        <line num="143" count="88" type="stmt"/>
+      </file>
+      <file name="CurrentCard.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Molecules/BookCard/CurrentCard.tsx">
+        <metrics statements="18" coveredstatements="18" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="147" count="4" type="stmt"/>
+        <line num="149" count="66" type="stmt"/>
+        <line num="150" count="66" type="stmt"/>
+        <line num="152" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="154" count="8" type="stmt"/>
+        <line num="155" count="1" type="stmt"/>
+        <line num="156" count="1" type="stmt"/>
+        <line num="157" count="1" type="stmt"/>
+        <line num="158" count="1" type="stmt"/>
+        <line num="163" count="1" type="stmt"/>
+        <line num="164" count="1" type="stmt"/>
+        <line num="165" count="1" type="stmt"/>
+        <line num="166" count="1" type="stmt"/>
+        <line num="167" count="1" type="stmt"/>
+        <line num="171" count="66" type="stmt"/>
+        <line num="199" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Molecules.Category">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Category.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Molecules/Category/Category.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+        <line num="41" count="145" type="stmt"/>
+        <line num="42" count="145" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.AppBar">
+      <metrics statements="12" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="2"/>
+      <file name="MyAppBar.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/AppBar/MyAppBar.tsx">
+        <metrics statements="12" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="2"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="154" count="1" type="stmt"/>
+        <line num="157" count="9" type="stmt"/>
+        <line num="158" count="8" type="stmt"/>
+        <line num="161" count="8" type="stmt"/>
+        <line num="163" count="2" type="stmt"/>
+        <line num="166" count="8" type="stmt"/>
+        <line num="168" count="0" type="stmt"/>
+        <line num="169" count="0" type="stmt"/>
+        <line num="177" count="8" type="stmt"/>
+        <line num="199" count="0" type="stmt"/>
+        <line num="218" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.AppBarWithCategories">
+      <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="AppBarWithCategories.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/AppBarWithCategories/AppBarWithCategories.tsx">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="132" count="1" type="stmt"/>
+        <line num="135" count="6" type="stmt"/>
+        <line num="139" count="5" type="stmt"/>
+        <line num="167" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.BeyondEntrepreneurship">
+      <metrics statements="27" coveredstatements="24" conditionals="6" coveredconditionals="4" methods="10" coveredmethods="7"/>
+      <file name="BeyondEntrepreneurship.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/BeyondEntrepreneurship/BeyondEntrepreneurship.tsx">
+        <metrics statements="27" coveredstatements="24" conditionals="6" coveredconditionals="4" methods="10" coveredmethods="7"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="170" count="1" type="stmt"/>
+        <line num="172" count="4" type="stmt"/>
+        <line num="173" count="4" type="stmt"/>
+        <line num="187" count="1" type="stmt"/>
+        <line num="190" count="4" type="stmt"/>
+        <line num="191" count="4" type="stmt"/>
+        <line num="210" count="1" type="stmt"/>
+        <line num="213" count="4" type="stmt"/>
+        <line num="215" count="4" type="stmt"/>
+        <line num="217" count="0" type="stmt"/>
+        <line num="220" count="4" type="stmt"/>
+        <line num="221" count="4" type="stmt"/>
+        <line num="240" count="1" type="stmt"/>
+        <line num="242" count="4" type="stmt"/>
+        <line num="243" count="4" type="stmt"/>
+        <line num="259" count="1" type="stmt"/>
+        <line num="261" count="4" type="stmt"/>
+        <line num="263" count="4" type="stmt"/>
+        <line num="265" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="269" count="0" type="stmt"/>
+        <line num="274" count="4" type="stmt"/>
+        <line num="291" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="322" count="1" type="stmt"/>
+        <line num="324" count="4" type="stmt"/>
+        <line num="327" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.ExploreBooks">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ExploreBooks.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/ExploreBooks/ExploreBooks.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.ExploreCategories">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="ExploreByCategory.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/ExploreCategories/ExploreByCategory.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+      </file>
+      <file name="ExploreCategories.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/ExploreCategories/ExploreCategories.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="28" count="8" type="stmt"/>
+        <line num="32" count="8" type="stmt"/>
+      </file>
+      <file name="Headers.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/ExploreCategories/Headers.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="8" type="stmt"/>
+        <line num="25" count="8" type="stmt"/>
+      </file>
+      <file name="Populartitles.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/ExploreCategories/Populartitles.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+      </file>
+      <file name="RecentlyAddedTitles.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/ExploreCategories/RecentlyAddedTitles.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.Footer">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Footer.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/Footer/Footer.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="34" count="5" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.Footer.BlinklistAndIdeas">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="BlinkListAndIdeas.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/Footer/BlinklistAndIdeas/BlinkListAndIdeas.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.Footer.Company">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Company.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/Footer/Company/Company.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="40" count="5" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="100" count="1" type="stmt"/>
+        <line num="102" count="5" type="stmt"/>
+        <line num="103" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.Footer.Footer_Editorial">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Editorial.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/Footer/Footer_Editorial/Editorial.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.Footer.Sitemap">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Sitemap.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/Footer/Sitemap/Sitemap.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.GridOfBooks">
+      <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="CurrentlyReading.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/GridOfBooks/CurrentlyReading.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+      </file>
+      <file name="FinishedReading.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/GridOfBooks/FinishedReading.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+      </file>
+      <file name="GridOfBooks.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/GridOfBooks/GridOfBooks.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="29" count="8" type="stmt"/>
+        <line num="30" count="8" type="stmt"/>
+        <line num="34" count="8" type="stmt"/>
+        <line num="39" count="63" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+      </file>
+      <file name="GridOfFinishedBooks.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/GridOfBooks/GridOfFinishedBooks.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="27" count="7" type="stmt"/>
+        <line num="28" count="7" type="stmt"/>
+        <line num="30" count="7" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Organisms.TrendingBlinks">
+      <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="FeaturedAudioBlinksdata.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/TrendingBlinks/FeaturedAudioBlinksdata.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="JustAddeddata.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/TrendingBlinks/JustAddeddata.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="TrendingBlinks.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/TrendingBlinks/TrendingBlinks.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="56" count="10" type="stmt"/>
+        <line num="57" count="10" type="stmt"/>
+        <line num="59" count="10" type="stmt"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="83" count="60" type="stmt"/>
+        <line num="102" count="30" type="stmt"/>
+        <line num="118" count="30" type="stmt"/>
+      </file>
+      <file name="TrendingBlinksdata.tsx" path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/TrendingBlinks/TrendingBlinksdata.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

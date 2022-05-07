@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/Tabs/__tests__/MyTabs.test.tsx">
+    <testCase name="Testing if currentlyReading is the active tab" duration="1111"/>
+    <testCase name="Testing if Finished is the inactive tab" duration="668"/>
+    <testCase name="Book should match with filter human" duration="148"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/GridOfBooks/__tests__/GridOfBooks.test.tsx">
+    <testCase name="Images should be rendered properly" duration="985"/>
+    <testCase name="Currently Reading books should have Finished button" duration="1659"/>
+    <testCase name="Currently Reading books should not have Read again button" duration="595"/>
+    <testCase name="When clicked on Finished, the book should disappear" duration="951"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/TrendingBlinks/__tests__/TrendingBlinks.test.tsx">
+    <testCase name="check search bar is working correctly" duration="1416"/>
+    <testCase name="Number of blinks should be 12" duration="1589"/>
+    <testCase name="Trending blinks should be rendered" duration="515"/>
+    <testCase name="Just Added should be rendered" duration="370"/>
+    <testCase name="Featured Audio blinks should be rendered" duration="345"/>
+    <testCase name="Filter check- false" duration="433"/>
+    <testCase name="Filter check - true" duration="361"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/AppBarWithCategories/__tests__/AppBarWithCategories.test.tsx">
+    <testCase name="app bar should render blinklist logo" duration="796"/>
+    <testCase name="app bar should have explore" duration="407"/>
+    <testCase name="app bar should have My library" duration="427"/>
+    <testCase name="app bar should have Avatar A" duration="524"/>
+    <testCase name="app bar should have Explore by Category" duration="352"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/AppBar/__tests__/MyAppBar.test.tsx">
+    <testCase name="app bar should render blinklist logo" duration="234"/>
+    <testCase name="app bar should have explore" duration="62"/>
+    <testCase name="app bar should have My library" duration="74"/>
+    <testCase name="app bar should have Avatar A" duration="57"/>
+    <testCase name="when clicked on search, explore should disappear" duration="407"/>
+    <testCase name="Search bar is displayed when clicked on search icon button" duration="391"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/GridOfBooks/__tests__/GridOfFinishedBooks.test.tsx">
+    <testCase name="Number of Finished books initially should be 9" duration="431"/>
+    <testCase name="Images should be rendered properly" duration="243"/>
+    <testCase name="Books should be rendered based on searchTerm" duration="86"/>
+    <testCase name="Finished Reading books should have Read again button" duration="278"/>
+    <testCase name="Finished Reading books should not have Finished button" duration="198"/>
+    <testCase name="When clicked on Read again, the book should disappear" duration="338"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/BeyondEntrepreneurship/__tests__/BeyondEntrepreneurship.test.tsx">
+    <testCase name="Key ideas are displayed" duration="516"/>
+    <testCase name="Finished Reading button is being displayed" duration="777"/>
+    <testCase name="Synopsis tab is being displayed" duration="313"/>
+    <testCase name="Beyond Entrepreneurship image should be displayed" duration="288"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Molecules/BookCard/__tests__/CurrentCard.test.tsx">
+    <testCase name="book name should match with &quot;Bring Your Human to Work&quot;" duration="392"/>
+    <testCase name="author name should match with &quot;Erica Keswin&quot;" duration="129"/>
+    <testCase name="image should be &quot;1.png&quot;" duration="182"/>
+    <testCase name="button name should be &quot;Finished&quot;" duration="167"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/Footer/__tests__/Footer.test.tsx">
+    <testCase name="Big ideas should be rendered" duration="288"/>
+    <testCase name="Editorial should be rendered" duration="178"/>
+    <testCase name="Useful Links should be rendered" duration="186"/>
+    <testCase name="Company should be rendered" duration="297"/>
+    <testCase name="Sitemap should be rendered" duration="153"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/ExploreCategories/__tests__/ExploreCategories.test.tsx">
+    <testCase name="Explore by categories should be rendered" duration="1155"/>
+    <testCase name="Recently added titles should be rendered" duration="647"/>
+    <testCase name="Popular titles should be rendered" duration="482"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/DownArrow/__tests__/DownArrow.test.tsx">
+    <testCase name="Icon should be rendered" duration="273"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Organisms/ExploreBooks/__tests__/ExploreBooks.test.tsx">
+    <testCase name="THe girl image should be rendered" duration="99"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/MylibraryTitle/__tests__/MyLibraryTitle.test.tsx">
+    <testCase name="renders my library" duration="19"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/Searchicon/__tests__/MySearchIcon.test.tsx">
+    <testCase name="Icon should be rendered" duration="43"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Molecules/Category/__tests__/Category.test.tsx">
+    <testCase name="Category name should match" duration="101"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/TimeIcon/__tests__/TimeIcon.test.tsx">
+    <testCase name="Icon should be rendered" duration="19"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/Avatar/__tests__/MyAvatar.test.tsx">
+    <testCase name="MyAvatar Alphabet should be A" duration="28"/>
+    <testCase name="MyAvatar Alphabet should be S" duration="8"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/Blinklistlogo/__tests__/Blinklistlogo.test.tsx">
+    <testCase name="Blinkist logo must be displayed" duration="21"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/UserIcon/__tests__/UserIcon.test.tsx">
+    <testCase name="Icon should be rendered" duration="18"/>
+  </file>
+  <file path="/home/sudhej/Downloads/new react/Blinkist_Project-master/src/Atoms/PlusIcon/__tests__/PlusIcon.test.tsx">
+    <testCase name="Icon should be rendered" duration="11"/>
+  </file>
+</testExecutions>
